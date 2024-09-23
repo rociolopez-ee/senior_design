@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c158e4de-35a6-4aea-8d9b-e7a4fbde145e")
+	(paper "A4")
+	(title_block
+		(title "Main Bluetooth Speaker")
+		(date "2024-09-06")
+		(rev "A")
+		(company "Synergy Electronics")
+	)
+	(lib_symbols)
+)
