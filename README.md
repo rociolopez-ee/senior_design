@@ -44,7 +44,7 @@ The MultiLink Portable Bluetooth Speaker was designed to:
 
 - **Rocio Lopez** – Project Manager, Lead PCB Designer  
 - **Po-Jui Su** – Power Systems Engineer  
-- **Ryan Minsky** – Firmware Engineer (@rminsky42)
+- **Ryan Minsky** – Firmware Engineer ([@rminsky42](https://github.com/rminsky42))
 - **Giuseppe Aiello** – Enclosure Designer, Secondary PCB Assembler  
 - **Jeffrey Chin** – Project Coordinator  
 
