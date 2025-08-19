@@ -1,0 +1,107 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6d945755-609b-486d-b2f3-c6d7455285fb")
+	(paper "A")
+	(title_block
+		(title "Main Bluetooth Speaker")
+		(date "2024-09-06")
+		(rev "A")
+		(company "Synergy Electronics")
+	)
+	(lib_symbols)
+	(text "Main Bluetooth Speaker"
+		(exclude_from_sim no)
+		(at 135.636 24.892 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "dcb57f8b-8827-4996-9366-37f89bea712e")
+	)
+	(sheet
+		(at 92.71 64.135)
+		(size 22.225 23.495)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "80dc38db-4789-4e19-9e82-e888d7d292e7")
+		(property "Sheetname" "Microprocessor & Connectors"
+			(at 92.71 63.4234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microprocessor_sch.kicad_sch"
+			(at 92.71 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Senior Design"
+				(path "/6d945755-609b-486d-b2f3-c6d7455285fb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 131.445 64.135)
+		(size 23.495 23.495)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3409df0-4279-4ee0-985d-212cbab341d9")
+		(property "Sheetname" "Power Amplifier"
+			(at 131.445 63.4234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerAmplifier_sch.kicad_sch"
+			(at 131.445 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Senior Design"
+				(path "/6d945755-609b-486d-b2f3-c6d7455285fb"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
